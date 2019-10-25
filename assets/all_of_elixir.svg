@@ -1,0 +1,13 @@
+<svg id="Group_7" data-name="Group 7" xmlns="http://www.w3.org/2000/svg" width="331" height="331" viewBox="0 0 331 331">
+  <g id="Group_12" data-name="Group 12" opacity="0.15">
+    <circle id="Oval" cx="165.5" cy="165.5" r="165.5" fill="#4bd1c4" opacity="0.3"/>
+    <circle id="Oval-2" data-name="Oval" cx="131.5" cy="131.5" r="131.5" transform="translate(34 34)" fill="#4bd1c4"/>
+  </g>
+  <circle id="Oval-3" data-name="Oval" cx="103" cy="103" r="103" transform="translate(59 63)" fill="#fff"/>
+  <g id="Group-8" transform="translate(121 120)">
+    <rect id="Rectangle-Copy-7" width="89" height="89" fill="none"/>
+    <path id="Stroke-125" d="M67.206,50H2.794A2.777,2.777,0,0,1,0,47.247V0H70V47.247A2.775,2.775,0,0,1,67.206,50Z" transform="translate(8 30)" fill="none" stroke="#fbe6ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Stroke-127" d="M70,19H0L8.381,0H61.619Z" transform="translate(8 11)" fill="none" stroke="#4bd1c4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.3"/>
+    <path id="Stroke-125-2" data-name="Stroke-125" d="M67.206,50H2.794A2.777,2.777,0,0,1,0,47.247V0H70V47.247A2.775,2.775,0,0,1,67.206,50Z" transform="translate(8 30)" fill="#4bd1c4" stroke="#4bd1c4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+  </g>
+</svg>

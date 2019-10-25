@@ -1,0 +1,15 @@
+<svg id="Group_7" data-name="Group 7" xmlns="http://www.w3.org/2000/svg" width="331" height="331" viewBox="0 0 331 331">
+  <g id="Group_13" data-name="Group 13" opacity="0.15">
+    <circle id="Oval" cx="165.5" cy="165.5" r="165.5" fill="#a0acf2" opacity="0.3"/>
+    <circle id="Oval-2" data-name="Oval" cx="131.5" cy="131.5" r="131.5" transform="translate(34 34)" fill="#a0acf2"/>
+  </g>
+  <circle id="Oval-3" data-name="Oval" cx="103" cy="103" r="103" transform="translate(59 63)" fill="#fff"/>
+  <g id="Card_4" data-name="Card 4" transform="translate(111 115)">
+    <rect id="Rectangle" width="102" height="102" fill="none"/>
+    <g id="Group_Copy_3" data-name="Group Copy 3" transform="translate(7 21)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="89" height="57.141" rx="2" fill="#a0acf2"/>
+      <path id="Path_3_Copy" data-name="Path 3 Copy" d="M0,1.5H11.718" transform="translate(11.867 42.104)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_Copy" data-name="Path Copy" d="M0,1.5H89" transform="translate(0 12.03)" fill="none" stroke="#425ae6" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Group_7" data-name="Group 7" xmlns="http://www.w3.org/2000/svg" width="331" height="331" viewBox="0 0 331 331">
+  <g id="Group_11" data-name="Group 11" opacity="0.152">
+    <circle id="Oval" cx="165.5" cy="165.5" r="165.5" fill="#fad279" opacity="0.3"/>
+    <circle id="Oval-2" data-name="Oval" cx="131.5" cy="131.5" r="131.5" transform="translate(34 34)" fill="#fad279"/>
+  </g>
+  <circle id="Oval-3" data-name="Oval" cx="103" cy="103" r="103" transform="translate(59 63)" fill="#fff"/>
+  <g id="Setting" transform="translate(121 121)">
+    <rect id="Rectangle" width="89" height="89" fill="none"/>
+    <path id="Stroke" d="M1.5,0V36" transform="translate(18 6)" fill="none" stroke="#fad279" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <path id="Stroke-2" data-name="Stroke" stroke="#fad279" d="M1.5,0V14" fill="none" transform="translate(18 69)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <path id="Stroke-3" data-name="Stroke" stroke="#fad279" d="M1.5,0V14" fill="none" transform="translate(43 6)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <path id="Stroke-4" data-name="Stroke" stroke="#fad279" d="M1.5,0V36" fill="none" transform="translate(43 47)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <path id="Stroke-5" data-name="Stroke" stroke="#fad279" d="M1.5,0V36" fill="none" transform="translate(68 6)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <path id="Stroke-6" data-name="Stroke" stroke="#fad279" d="M1.5,0V14" fill="none" transform="translate(68 69)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" opacity="0.5"/>
+    <circle id="Stroke-7" data-name="Stroke" cx="8.5" cy="8.5" r="8.5" transform="translate(11 53)" stroke-width="3" stroke="#fad279" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#fad279"/>
+    <circle id="Stroke-8" data-name="Stroke" cx="8.5" cy="8.5" r="8.5" transform="translate(36 19)" stroke-width="3" stroke="#fad279" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#fad279"/>
+    <circle id="Stroke-9" data-name="Stroke" cx="8.5" cy="8.5" r="8.5" transform="translate(61 53)" stroke-width="3" stroke="#fad279" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#fad279"/>
+  </g>
+</svg>
